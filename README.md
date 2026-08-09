@@ -2,7 +2,8 @@
 
 <div>
   <a href="https://beacons.ai/it21tasks">
-  <
+  <img height="180em" src="https://githureadme-stats.vercel.app/api?username=it21tasks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://githureadme-stats.vercel.app/api/?username=it21tasks&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 Here are some ideas to get you started:
